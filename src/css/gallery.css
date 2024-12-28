@@ -22,7 +22,6 @@
 }
 
 .gallery-item:last-child {
-  flex-grow: 1;
   opacity: 0;
   height: auto;
 }
